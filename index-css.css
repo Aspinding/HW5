@@ -1,0 +1,126 @@
+body{
+  height: 945px;
+  margin: 0px;
+  padding: 0px;
+  background-color: #F3D796;
+}
+
+#header{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 2vh;
+  display: block; 
+ background-color:#8FBC8F;
+ font-family:'Times New Roman', Times, serif;
+ width: 100%;     
+  height: 130px;     
+  margin-bottom: 20px;
+  position: fixed;
+}
+
+.header-list{
+  text-decoration: overline;
+  line-height: 5px;
+  margin-top: 21px;
+  letter-spacing: 5px;
+}
+
+.l-praga{
+  margin: 0px;
+}
+
+.l-parig{
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  color:#006400;
+  margin: 0px;
+}
+
+.l-tallin{
+  text-decoration-line: line-through;
+  text-decoration-style: solid;
+  text-decoration-color:#990B0B;
+  margin: 0px;
+}
+
+.l-austria{
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  color:#006400;
+  margin: 0px;
+}
+
+.l-germany{
+  margin: 0px;
+}
+
+#block-praga{
+  position: fixed;
+  top: 150px;
+  left: 50px;
+  font-size: 2.5vh;
+  margin: 0px;
+  width: 350px;
+  background-color: #FFFF00;
+  border: dotted;
+  text-align: center;
+  padding: 10px;
+}
+
+.praga{
+  font-style: oblique;
+}
+
+#block-parig{
+  position: fixed;
+  top: 150px;
+  right: 50px;
+  font-size: 2.5vh;
+  margin: 0px;
+  width: 350px;
+  background-color: #9ACD32;
+  border: dashed;
+  text-align: center;
+  padding: 10px;
+}
+
+.parig{
+  font-style: oblique;
+}
+
+#block-germany{
+  position: fixed;
+  top: 450px;
+  left: 50px;
+  font-size: 2.5vh;
+  margin: 0px;
+  width: 350px;
+  background-color: #9370DB;
+  border: dashed;
+  text-align: center;
+  padding: 10px;
+}
+
+.germany{
+  font-style: oblique;
+}
+
+#block-austria{
+  position: fixed;
+  top: 450px;
+  right: 50px;
+  font-size: 2.5vh;
+  margin: 0px;
+  width: 350px;
+  background-color: #FA8072;
+  border: dotted;
+  text-align: center;
+  padding: 10px;
+}
+  
+
+
+.austria{
+  font-style: oblique;
+}
